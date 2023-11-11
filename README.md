@@ -1,16 +1,16 @@
-# lunar
+**Lunar Camera - POC of Camera Functionality using Flutter**
 
-A new Flutter project.
+This repository contains a simple example of how to implement a Camera feature in a Flutter application.
 
-## Getting Started
+**Characteristics**:
+- Uses the camera plugin that provides tools to work with the device's cameras.
+- Uses the path_provider plugin to find the correct paths to store images.
+- Use the path plugin to create paths that work on any platform.
 
-This project is a starting point for a Flutter application.
+**How to use**:
+1. Clone the repository.
+2. Run `flutter pub get` to install the dependencies.
+3. Run `flutter run` to launch the application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Contributions**:
+Feel free to contribute improvements, bug fixes or new features. Open a Pull Request and we'll review it!
